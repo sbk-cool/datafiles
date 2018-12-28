@@ -1,2 +1,2 @@
-# datafiles.github.io
+# datafiles
 Repository of financial data files.
